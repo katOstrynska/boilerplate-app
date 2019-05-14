@@ -2,7 +2,7 @@
   "name": "expensify-app",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/katOstrynska/expensify-app.git",
+  "repository": "https://github.com/katOstrynska/boilerplate-app",
   "author": "<k.ostrynska@gmail.com>",
   "license": "MIT",
   "scripts": {
